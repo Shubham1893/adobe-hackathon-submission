@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "persona": "A software student",
+    "job_to_be_done": "Prepare for a technical interview",
+    "processed_docs": [
+      "cpp interview bit.pdf",
+      "interview bit dbms question.pdf",
+      "javascript-interview-qa-key-concepts-handwritten-notes-js-101.pdf",
+      "network interview bit.pdf"
+    ]
+  },
+  "extracted_sections": [
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Networking Interview",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "C++ Interview Questions",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Let's get Started",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Let's get Started",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "DBMS Interview Questions",
+      "importance_rank": 5,
+      "page_number": 1
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Intermediate DBMS Interview Questions",
+      "importance_rank": 6,
+      "page_number": 10
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Advanced Interview Questions",
+      "importance_rank": 7,
+      "page_number": 3
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Questions",
+      "importance_rank": 8,
+      "page_number": 26
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "Questions",
+      "importance_rank": 9,
+      "page_number": 26
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Questions",
+      "importance_rank": 10,
+      "page_number": 34
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Links to More Interview",
+      "importance_rank": 11,
+      "page_number": 34
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "Links to More Interview",
+      "importance_rank": 12,
+      "page_number": 26
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Links to More Interview",
+      "importance_rank": 13,
+      "page_number": 26
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "Let's get Started",
+      "importance_rank": 14,
+      "page_number": 5
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Basic DBMS Interview Questions",
+      "importance_rank": 15,
+      "page_number": 2
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Intermediate Interview Questions",
+      "importance_rank": 16,
+      "page_number": 3
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Intermediate DBMS Interview Questions",
+      "importance_rank": 17,
+      "page_number": 2
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Basic Networking Interview Questions",
+      "importance_rank": 18,
+      "page_number": 2
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Questions",
+      "importance_rank": 19,
+      "page_number": 1
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Advanced Interview Questions",
+      "importance_rank": 20,
+      "page_number": 24
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Basic DBMS Interview Questions",
+      "importance_rank": 21,
+      "page_number": 4
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "C++ Interview Questions For Freshers",
+      "importance_rank": 22,
+      "page_number": 3
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Advanced DBMS Interview Questions",
+      "importance_rank": 23,
+      "page_number": 3
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Basic Networking Interview Questions",
+      "importance_rank": 24,
+      "page_number": 4
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "C++ Interview Questions For Experienced",
+      "importance_rank": 25,
+      "page_number": 18
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Intermediate Interview Questions",
+      "importance_rank": 26,
+      "page_number": 2
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Intermediate Interview Questions",
+      "importance_rank": 27,
+      "page_number": 17
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "Contents",
+      "importance_rank": 28,
+      "page_number": 3
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Contents",
+      "importance_rank": 29,
+      "page_number": 2
+    },
+    {
+      "document": "network interview bit.pdf",
+      "section_title": "Contents",
+      "importance_rank": 30,
+      "page_number": 2
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Advanced DBMS Interview Questions",
+      "importance_rank": 31,
+      "page_number": 2
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "section_title": "Advanced DBMS Interview Questions",
+      "importance_rank": 32,
+      "page_number": 17
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "C++ Interview Questions For Experienced",
+      "importance_rank": 33,
+      "page_number": 4
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "section_title": "C++ Interview Questions For Freshers",
+      "importance_rank": 34,
+      "page_number": 6
+    },
+    {
+      "document": "javascript-interview-qa-key-concepts-handwritten-notes-js-101.pdf",
+      "section_title": "JavaScript",
+      "importance_rank": 35,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "network interview bit.pdf",
+      "page_number": 1,
+      "refined_text": "Networking Interview"
+    },
+    {
+      "document": "cpp interview bit.pdf",
+      "page_number": 1,
+      "refined_text": "C++ Interview Questions\n\n"
+    },
+    {
+      "document": "network interview bit.pdf",
+      "page_number": 4,
+      "refined_text": "Let's get Started\n\n"
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "page_number": 4,
+      "refined_text": "Let's get Started\n\n"
+    },
+    {
+      "document": "interview bit dbms question.pdf",
+      "page_number": 1,
+      "refined_text": "DBMS Interview Questions\n\n"
+    }
+  ]
+}
