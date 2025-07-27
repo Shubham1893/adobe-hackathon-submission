@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local Test Data
+Challenge_1a/input/
+Challenge_1a/output/
+Challenge_1b/input/
+Challenge_1b/output/
+
+# Do not track the downloaded model
+/Challenge_1b/model/
