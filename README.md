@@ -76,7 +76,7 @@ Processed: network interview bit.pdf (34 pages)
 ┡━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━┩
 │ Total PDFs Processed  │ 4             │
 │ Total Headings Found  │ 38            │
-│ Total Processing Time │ 14.12 seconds │
+│ Total Processing Time │ 9.12 seconds │
 └───────────────────────┴───────────────┘
 ```
 
